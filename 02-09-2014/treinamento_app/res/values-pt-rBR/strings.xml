@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Treinamento PT-BR</string>
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="minha_primeira_imagem">Urso!</string>
+
+</resources>
